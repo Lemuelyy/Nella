@@ -1,0 +1,21 @@
+{
+  "name": "nella",
+  "displayName": "Nella",
+  "description": "a red theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nella",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nella-color-theme.json"
+      }
+    ]
+  }
+}
