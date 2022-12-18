@@ -4,6 +4,7 @@
   "description": "a red theme",
   "version": "0.0.1",
   "publisher": "Cherry",
+  "icon": "icon.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/Lemuelyy/Nella"
